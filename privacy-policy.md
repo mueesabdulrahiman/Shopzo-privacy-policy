@@ -29,7 +29,7 @@ We analyze user behavior to enhance the functionality and user experience of the
 Shopzo employs industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction.
 
 * Third-Party Services:
-We may use third-party services to process transactions and enhance app functionality. These services have their own privacy policies, and we encourage you to review them.
+We use OneSignal as a third-party service to process notifications and enhance app functionality. OneSignal has its own privacy policy, and we encourage you to review it.
 
 ### Information Sharing
 * Internal Use:
